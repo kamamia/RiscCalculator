@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
  * Localized Value DAO implementation class
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see AbstractDao
  * @see LocalizedValueDao

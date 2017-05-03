@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see LocalizedValueService
  * @see LocalizedValueDao
  * @since January 29, 2015

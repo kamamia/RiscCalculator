@@ -9,7 +9,7 @@ import org.mcgill.risk.spring.model.Drug;
  * Drug Dao class
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see Drug
  * @since January 29, 2015

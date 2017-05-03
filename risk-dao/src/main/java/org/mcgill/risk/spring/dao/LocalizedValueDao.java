@@ -8,7 +8,7 @@ import org.mcgill.risk.spring.model.LocalizedValue;
  * Localized Value interface
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see LocalizedValue
  * @since January 29, 2015

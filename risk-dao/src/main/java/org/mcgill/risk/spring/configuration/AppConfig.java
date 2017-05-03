@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
  * Spring application configuration class
  * </p>
  * 
- * @author htazouti
+ * //
  * 
  * @since January 29, 2015
  * @version 1.0

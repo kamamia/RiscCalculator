@@ -17,7 +17,7 @@ import org.springframework.stereotype.Repository;
  * LocalizedValueTrippRisk DAO implementation class
  * </p>
  * @autho aKamami
- * @author htazouti
+ * //
  *
  * @see TrippDrugDao
  */

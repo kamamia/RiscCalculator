@@ -10,7 +10,7 @@ import org.mcgill.risk.spring.model.Drug;
  * </p>
  * 
  * @author aKamami
- * @author htazouti
+ * //
  * @see Drug
  * @since January 29, 2015
  * @version 1.0

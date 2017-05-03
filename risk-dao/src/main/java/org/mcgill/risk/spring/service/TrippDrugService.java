@@ -11,7 +11,7 @@ import org.mcgill.risk.spring.model.TripDrug;
  * </p>
  * 
  * @author aKamami
- * @author htazouti
+ * //
  * @see TripDrug
  * @since January 29, 2015
  * @version 1.0

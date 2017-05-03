@@ -19,7 +19,7 @@ import javax.persistence.Table;
  * <p>
  * It store all client tripp profile.
  * 
- * @author htazouti
+ * //
  *
  */
 

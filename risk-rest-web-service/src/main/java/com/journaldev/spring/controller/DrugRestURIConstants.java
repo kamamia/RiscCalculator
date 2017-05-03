@@ -6,7 +6,7 @@ package com.journaldev.spring.controller;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  *
  */
 public class DrugRestURIConstants {

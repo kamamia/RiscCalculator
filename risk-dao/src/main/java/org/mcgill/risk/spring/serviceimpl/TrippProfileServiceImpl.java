@@ -16,7 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
  * Implementation of tripp profile servies
  * <p>
  * 
- * @author htazouti
+ * //
  * @see TrippProfileService
  * @since January 29, 2015
  * @version 1.0

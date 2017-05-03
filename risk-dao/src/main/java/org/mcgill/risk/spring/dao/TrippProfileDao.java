@@ -10,7 +10,7 @@ import org.mcgill.risk.spring.model.TrippProfileRiskDrug;
  * Tripp profile DAO interface
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see TrippProfile
  * @see TrippProfileRisk

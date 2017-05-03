@@ -16,7 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see LocalizedValueTrippRiskService
  * @see LocalizedValueTrippRiskDao
  * @see LocalizedValueTrippRisk

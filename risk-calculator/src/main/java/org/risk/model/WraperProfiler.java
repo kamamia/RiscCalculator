@@ -9,7 +9,7 @@ import java.util.List;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see TrippProfile
  * @see WrapperTrippProfile
  * @since January 29, 2015

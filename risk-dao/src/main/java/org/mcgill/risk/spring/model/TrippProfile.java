@@ -16,7 +16,7 @@ import javax.persistence.Table;
  * This is the entity t for the tripp profile
  * <p>
  * 
- * @author htazouti
+ * //
  *
  */
 @Entity

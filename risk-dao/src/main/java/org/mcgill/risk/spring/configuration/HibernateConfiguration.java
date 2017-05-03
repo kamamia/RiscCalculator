@@ -22,7 +22,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  * Hibernate configuration class
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * 
  * @since January 29, 2015

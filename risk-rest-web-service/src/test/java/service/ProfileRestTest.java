@@ -29,7 +29,7 @@ import com.journaldev.spring.controller.DrugRestURIConstants;
  * Tests for all rest web services
  * </p>
  * 
- * @author htazouti
+ * //
  *
  */
 public class ProfileRestTest {

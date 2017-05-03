@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see TrippDrugService
  * @see TrippDrugDao
  * @see TripDrug

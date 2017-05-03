@@ -11,7 +11,7 @@ import org.mcgill.risk.spring.model.LocalizedValueTrippRisk;
  * Localized Value interface for TRipp risk
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see LocalizedValueTrippRisk
  * @since January 29, 2015

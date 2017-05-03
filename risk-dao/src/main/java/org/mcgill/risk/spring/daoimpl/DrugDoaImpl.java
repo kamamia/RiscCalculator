@@ -17,7 +17,7 @@ import org.springframework.stereotype.Repository;
  * Drug DAO implementation class
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see AbstractDao
  * @see DrugDao

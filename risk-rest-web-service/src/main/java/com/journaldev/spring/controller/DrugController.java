@@ -58,7 +58,7 @@ import java.net.URLEncoder;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * 
  * @see DrugService
  * @see TrippDrugService

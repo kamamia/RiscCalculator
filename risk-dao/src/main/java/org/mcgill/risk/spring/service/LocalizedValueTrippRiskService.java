@@ -12,7 +12,7 @@ import org.mcgill.risk.spring.model.LocalizedValueTrippRisk;
  * </p>
  * 
  * @author aKamami
- * @author htazouti
+ * //
  * @see LocalizedValueTrippRisk
  * @since January 29, 2015
  * @version 1.0

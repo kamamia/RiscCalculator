@@ -10,7 +10,7 @@ import org.mcgill.risk.spring.model.TripDrug;
  * Tripp drug DAO interface
  * </p>
  * 
- * @author htazouti
+ * //
  * @author akamami
  * @see TripDrug
  * @since January 29, 2015

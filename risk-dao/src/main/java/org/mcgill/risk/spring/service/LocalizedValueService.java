@@ -10,7 +10,7 @@ import org.mcgill.risk.spring.model.LocalizedValue;
  * </p>
  * 
  * @author aKamami
- * @author htazouti
+ * //
  * @see LocalizedValue
  * @since January 29, 2015
  * @version 1.0

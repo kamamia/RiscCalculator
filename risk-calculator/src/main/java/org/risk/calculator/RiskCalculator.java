@@ -18,7 +18,7 @@ import org.springframework.context.support.AbstractApplicationContext;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * 
  * @see TrippProfileRisk
  * 

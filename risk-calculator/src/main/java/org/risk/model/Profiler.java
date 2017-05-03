@@ -8,7 +8,7 @@ import java.util.List;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * 
  * @see TrippProfile
  * @see TrippPat

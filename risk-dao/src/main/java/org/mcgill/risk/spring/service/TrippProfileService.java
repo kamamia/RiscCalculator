@@ -12,7 +12,7 @@ import org.mcgill.risk.spring.model.TrippProfileRiskDrug;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see TrippProfile
  * @see TrippProfileRisk
  * @since January 29, 2015

@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
  * <p>
  * Calendar util
  * </p>
- * @author htazouti
+ * //
  * @author akamami
  */
 public class CalendarUtil {

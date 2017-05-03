@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </p>
  * 
  * @author akamami
- * @author htazouti
+ * //
  * @see DrugService
  * @see DrugDao
  * @see Drug
